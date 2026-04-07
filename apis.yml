@@ -1,7 +1,12 @@
 aid: chipotle-mexican-grill
-url: https://raw.githubusercontent.com/api-evangelist/chipotle-mexican-grill/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/chipotle-mexican-grill/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.chipotle-mexican-grill.com
+description: >-
+  Chipotle Mexican Grill is a chain of fast-casual restaurants serving burritos, bowls,
+  tacos, and salads made with responsibly sourced ingredients across the United States
+  and select international markets.
