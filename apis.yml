@@ -1,6 +1,6 @@
 aid: chipotle-mexican-grill
 name: Chipotle Mexican Grill
-x-type: company
+kind: company
 description: >-
   Chipotle Mexican Grill is a Fortune 500 fast-casual restaurant chain serving
   burritos, bowls, tacos, salads, and quesadillas made with responsibly sourced,
