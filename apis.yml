@@ -31,10 +31,11 @@ tags:
   - Loyalty
   - Mobile App
   - Quick Service Restaurant
+  - Restaurant Technology
   - Restaurants
   - Rewards
 created: '2026-03-21'
-modified: '2026-04-23'
+modified: '2026-06-02'
 specificationVersion: '0.20'
 apis: []
 common:
@@ -85,6 +86,7 @@ common:
       - name: Chipotle Rewards Loyalty
       - name: International Operations
       - name: Chipotlanes (Drive-Thru Digital Pickup)
+      - name: Restaurant Technology and AI Initiatives
   - name: Brands
     type: Brands
     data:
@@ -116,6 +118,25 @@ common:
       - name: Group Order Coordination
       - name: Gift Card Purchasing and Redemption
       - name: Restaurant Location Discovery
+  - name: AIInitiatives
+    type: AIInitiatives
+    data:
+      - name: Chippy (AI Kitchen Assistant)
+        note: >-
+          Autonomous robotic kitchen assistant piloted to make tortilla chips,
+          developed with Miso Robotics.
+      - name: Pepper (AI Customer Support Chatbot)
+        note: >-
+          AI-powered customer support chatbot handling guest inquiries across
+          digital channels.
+      - name: Ava Cado (AI Hiring Platform)
+        note: >-
+          AI-powered hiring platform introduced to accelerate the recruiting
+          and onboarding of restaurant crew members.
+      - name: Autocado (Avocado Processing Robotics)
+        note: >-
+          Automated guacamole-prep robotics pilot processing avocados in
+          partnership with Vebu.
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
