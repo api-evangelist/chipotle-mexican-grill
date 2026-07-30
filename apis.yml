@@ -16,9 +16,20 @@ description: >-
   Uber Eats, Grubhub) are managed through bilateral agreements, and supplier
   and franchise integrations occur through internal portals.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Consuming
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/chipotle-mexican-grill.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/chipotle-mexican-grill/refs/heads/main/apis.yml
 tags:
