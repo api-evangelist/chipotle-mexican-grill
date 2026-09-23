@@ -1,7 +1,9 @@
 ---
 title: CHIPOTLE PILOTS ADVANCED TECHNOLOGY TO ...
 url: https://newsroom.chipotle.com/2022-09-27-CHIPOTLE-PILOTS-ADVANCED-TECHNOLOGY-TO-ENHANCE-THE-EMPLOYEE-AND-GUEST-EXPERIENCE
-date: '2026-05-25'
+published: '2022-09-27'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Chipotle Mexican Grill" press release artificial intelligence'
 position: 3
 source: serpapi-google

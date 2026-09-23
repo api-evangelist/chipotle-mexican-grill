@@ -1,7 +1,9 @@
 ---
 title: CHIPOTLE INTRODUCES NEW AI HIRING PLATFORM TO ...
 url: https://newsroom.chipotle.com/2024-10-22-CHIPOTLE-INTRODUCES-NEW-AI-HIRING-PLATFORM-TO-SUPPORT-ITS-ACCELERATED-GROWTH
-date: '2026-05-25'
+published: '2024-10-22'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Chipotle Mexican Grill" press release artificial intelligence'
 position: 5
 source: serpapi-google
