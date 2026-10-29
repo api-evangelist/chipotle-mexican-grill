@@ -1,4 +1,4 @@
-# Chipotle Mexican Grill (chipotle-mexican-grill)
+# Chipotle Mexican Grill
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,49 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Chipotle Mexican Grill is a Fortune 500 fast-casual restaurant chain serving burritos, bowls, tacos, salads, and quesadillas made with responsibly sourced, classically-cooked, real ingredients. Founded in 1993 in Denver, Colorado and headquartered in Newport Beach, California, Chipotle operates more than 3,500 restaurants across the United States, Canada, the United Kingdom, France, Germany, Kuwait, and the United Arab Emirates. The company is widely recognized as a digital ordering and loyalty leader in the restaurant industry through its Chipotle Rewards program, native iOS and Android apps, and digital ordering platforms.
+Chipotle Mexican Grill is a Fortune 500 fast-casual restaurant chain serving burritos, bowls, tacos, salads, and quesadillas made with responsibly sourced, classically-cooked, real ingredients. Founded in 1993 in Denver, Colorado and headquartered in Newport Beach, California, Chipotle operates more than 3,500 restaurants across the United States, Canada, the United Kingdom, France, Germany, Kuwait, and the United Arab Emirates. The company is widely recognized as a digital ordering and loyalty leader in the restaurant industry through its Chipotle Rewards program, native iOS and Android apps, and digital ordering platforms (web ordering, group ordering, and catering). Chipotle does not currently publish a public consumer-facing developer API catalog; partner integrations such as third-party delivery (DoorDash, Uber Eats, Grubhub) are managed through bilateral agreements, and supplier and franchise integrations occur through internal portals.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/chipotle-mexican-grill/refs/heads/main/apis.yml)
+**Areas:** Burritos · Catering · Digital Ordering · Fast Casual · Food Safety · Fortune 500 · Loyalty · Mobile App · Quick Service Restaurant · Restaurant Technology · Restaurant · Rewards
 
-## Scope
+## Chipotle Mexican Grill on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Chipotle Mexican Grill is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chipotle-mexican-grill/](https://apis.io/providers/chipotle-mexican-grill/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Burritos, Catering, Digital Ordering, Fast Casual, Food Safety, Fortune 500, Loyalty, Mobile App, Quick Service Restaurant, Restaurant Technology, Restaurants, Rewards
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (2)
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-06-02
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Chipotle Mexican Grill Domain Security](https://apis.io/security/chipotle-mexican-grill/chipotle-mexican-grill-domain-security/)
+- [Chipotle Mexican Grill Vulnerability Disclosure](https://apis.io/security/chipotle-mexican-grill/chipotle-mexican-grill-vulnerability-disclosure/)
 
-No public APIs have been documented yet. Chipotle does not currently publish a public consumer-facing developer API catalog. The endpoints that do exist — a partner/internal services portal (`lt-servicesportal.chipotle.com`) and a community/fundraising "Donations Manager" API (`api.community.chipotle.com`) — are authentication-gated and not open developer APIs. Partner integrations (DoorDash, Uber Eats, Grubhub) are handled through bilateral agreements, and the consumer ordering and Rewards apps run on Azure API Management as an internal gateway.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.chipotle.com)
-- [Menu](https://www.chipotle.com/order)
-- [Catering](https://www.chipotle.com/catering)
-- [Group Orders](https://www.chipotle.com/order/group)
-- [Rewards](https://www.chipotle.com/rewards)
-- [Gift Cards](https://www.chipotle.com/gift-cards)
-- [Restaurant Locator](https://locations.chipotle.com/)
-- [iOS App](https://apps.apple.com/us/app/chipotle/id327228455)
-- [Android App](https://play.google.com/store/apps/details?id=com.chipotle.ordering)
-- [Careers](https://jobs.chipotle.com/)
-- [Investor Relations](https://ir.chipotle.com/)
-- [Newsroom](https://newsroom.chipotle.com/)
-- [Sustainability](https://www.chipotle.com/values)
-- [Supplier Information](https://www.chipotle.com/suppliers)
-- [Privacy Policy](https://www.chipotle.com/privacy-policy)
+- [Terms of service](https://www.chipotle.com/terms-of-use)
+- [Privacy policy](https://www.chipotle.com/privacy-policy)
+- [GitHub](https://github.com/chipotle-mexican-grill)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 10.1** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chipotle-mexican-grill/](https://apis.io/providers/chipotle-mexican-grill/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Chipotle Mexican Grill: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/chipotle-mexican-grill/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
